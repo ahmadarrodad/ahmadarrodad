@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Research Thesis </b>
+<h3>Research Thesis </h3>
   - [Penentuan Premi Asuransi Jiwa Seumur Hidup Pasangan Individu Status Joint Life Dengan Model Copula Clayton-Gumbel](link)
-    
-- <b>Applied Learning </b>
-  - 
+
+<h3>Applied Learning </h3>
+
   
 - <b>Team Research </b>
   - Perbandingan Metode Monte Carlo Standar dan Least-Square Monte Carlo dalam Penentuan Harga Opsi Amerika
