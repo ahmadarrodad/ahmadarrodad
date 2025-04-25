@@ -3,21 +3,22 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Research Thesis </b>
-  - [Penentuan Premi Asuransi Jiwa Seumur Hidup Pasangan Individu Status Joint Life Dengan Model Copula Clayton-Gumbel](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Penentuan Premi Asuransi Jiwa Seumur Hidup Pasangan Individu Status Joint Life Dengan Model Copula Clayton-Gumbel](link)
     
 - <b>Applied Learning </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - 
   
 - <b>Team Research </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - Perbandingan Metode Monte Carlo Standar dan Least-Square Monte Carlo dalam Penentuan Harga Opsi Amerika
+  - Estimasi Biaya Rawat Inap pada Klaim Asuransi Kesehatan Menggunakan Pendekatan Empirical Bayesian
+  - Comparison Of Guts Spread And Risk Reversal Spread Strategies For Hedging Natural Gas Commodities
+  - Perbandingan Multiple Linear, Lasso, Dan Random Forest Regression Dalam Memprediksi Nilai Rata-Rata Iq Di Dunia
+  - Pengaruh Akuisisi Grab Holdings Limited Pada Perusahaan Ovostar Union Public Company Limited
+  - Analisis Prospectus Perusahaan Pt. Ifishdeco Tbk [IFSH], Alakasa Industrindo Tbk, Pt Saranacentral Bajatama Tbk, Pt Trinitan Metals And Minerals Tbk
+  - Korelasi Kemampuan Matematika dengan Prestasi Akademik pada Siswa SMA Negeri 1 Mandirancan
   
 - <b>Independent Project </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - 
 
 
 <h2> 🤳 Connect with me:</h2>
