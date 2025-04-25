@@ -6,7 +6,7 @@
   - [Penentuan Premi Asuransi Jiwa Seumur Hidup Pasangan Individu Status Joint Life Dengan Model Copula Clayton-Gumbel](link)
 
 <h3>Applied Learning </h3>
-
+  
   
 - <b>Team Research </b>
   - Perbandingan Metode Monte Carlo Standar dan Least-Square Monte Carlo dalam Penentuan Harga Opsi Amerika
@@ -17,9 +17,8 @@
   - Analisis Prospectus Perusahaan Pt. Ifishdeco Tbk [IFSH], Alakasa Industrindo Tbk, Pt Saranacentral Bajatama Tbk, Pt Trinitan Metals And Minerals Tbk
   - Korelasi Kemampuan Matematika dengan Prestasi Akademik pada Siswa SMA Negeri 1 Mandirancan
   
-- <b>Independent Project </b>
+- <b>Independent Research </b>
   - 
-
 
 <h2> 🤳 Connect with me:</h2>
 
