@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<h3>Research Thesis </h3>
+<h3>Final Project </h3>
   - [Penentuan Premi Asuransi Jiwa Seumur Hidup Pasangan Individu Status Joint Life Dengan Model Copula Clayton-Gumbel](link)
 
 <h3>Applied Learning </h3>
